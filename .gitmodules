@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RBF"]
+	path = RBF
+	url = https://github.com/msalibian/rbf
+	shallow = true
+	registered = true
+[submodule "RobStatTM"]
+	path = RobStatTM
+	url = https://github.com/msalibian/robstattm
+	shallow = true
+	registered = true
